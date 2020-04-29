@@ -27,7 +27,7 @@
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%9F%BA%E6%9C%AC%E6%96%B9%E7%A8%8B.png)
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.png)
 
-k为阶段变量，即第k台水轮机;Sk为k阶段状态变量，即k阶段剩余发电可引用流量;uk(Sk)为第k阶段处于状态Sk时的决策变量,即第k台水轮机的引用流量。
+k为阶段变量，即第k台水轮机;Sk为k阶段状态变量，即k阶段剩余发电可引用流量;uk(Sk)为第k阶段处于状态Sk时的决策变量,即第k台水轮机的引用流量;vk表示第k阶段的阶段指标，即第k台水轮机的功率。
 模型中涉及水轮机效率ηt，其由单位转速N11和单位流量Q11共同决定，是一个高度非线性的关系，建立神经网络对其进行学习仿真。
 
 6. 计算结果
