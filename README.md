@@ -5,11 +5,11 @@
 2.水文数据：
 径流
 
-![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E6%B5%81%E9%87%8F%E4%BF%9D%E8%AF%81%E7%8E%87.jpg)
+![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E6%B5%81%E9%87%8F%E4%BF%9D%E8%AF%81%E7%8E%87.png)
 
 水位
 
-![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E6%B0%B4%E4%BD%8D%E6%B5%81%E9%87%8F%E5%85%B3%E7%B3%BB.jpg)
+![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E6%B0%B4%E4%BD%8D%E6%B5%81%E9%87%8F%E5%85%B3%E7%B3%BB.png)
 
 3.方案设计: ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.png)
 4.数学模型：非线性规划(给定的径流和给定的机组参数，如何分配各台机组的流量（出力），以使水能充分利用) 
