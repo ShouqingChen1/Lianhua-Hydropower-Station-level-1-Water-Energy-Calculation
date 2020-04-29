@@ -15,7 +15,7 @@
 
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.png)
 
-4.数学模型：非线性规划（对于给定的径流如何选择机组参数与流量分配，使实时发电量最大）
+4.数学模型：动态规划（对于给定的径流如何选择机组参数与流量分配，使实时发电量最大）
 
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92%E6%96%B9%E7%A8%8B.png)
 
