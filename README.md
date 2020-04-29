@@ -19,6 +19,9 @@
 
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92%E6%96%B9%E7%A8%8B.png)
 
+模型限制条件中：
+第1式为机组出力公式；第2、3式为水轮机几何相似变换；第4式表示机组出力限制；第5式表示水头限制；第6、7式表示导叶和桨叶开度限制；第8式表示吸出高度限制；第9式表示机组引用流量不超过最大可用流量；第10式表示机组运行工况须在模型曲线范围内；水头损失取0.5m，发电机效率取95%。
+
 5. 求解算法：动态规划及神经网络算法
 
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E5%9F%BA%E6%9C%AC%E6%96%B9%E7%A8%8B.png)
