@@ -1,6 +1,6 @@
 # 莲花一级电站-水能设计分析
 
-1.分析方法：水能设计的动态模拟法，其将电站的水文过程、机组特性和调度控制作为一个整体，根据实时工况的效率计算其实时发电量，以多年平均发电量最大为目标函数，求取最优的机组参数。
+1.分析方法：水能设计的动态模拟法，即将电站的水文过程、机组特性和调度控制作为一个整体，根据实时工况的效率计算其实时发电量，以多年平均发电量最大为目标函数，求取最优的机组参数。
 
 2.数据：
 径流
@@ -15,7 +15,7 @@
 
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.png)
 
-4.数学模型：非线性规划(给定的径流和给定的机组参数，如何分配各台机组的流量（出力），以使水能充分利用) 
+4.数学模型：非线性规划（对于给定的径流如何选择机组参数与流量分配，使实时发电量最大）
 
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E9%9D%9E%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92%E6%96%B9%E7%A8%8B.png)
 
