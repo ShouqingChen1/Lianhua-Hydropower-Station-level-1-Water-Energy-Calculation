@@ -30,8 +30,10 @@
 k为阶段变量，即第k台水轮机;Sk为k阶段状态变量，即k阶段剩余发电可引用流量;uk(Sk)为第k阶段处于状态Sk时的决策变量,即第k台水轮机的引用流量;vk表示第k阶段的阶段指标，即第k台水轮机的功率。
 模型中涉及水轮机效率ηt，其由单位转速N11和单位流量Q11共同决定，是一个高度非线性的关系，建立神经网络对其进行学习仿真。
 
-6. 计算结果
+6. 程序设计: .m/Dynamic Programming/MAIN_TEST.m
+
+7. 计算结果
 
 ![image](https://github.com/ShouqingChen1/Dynamic-Simulation-Method-for-Hydropower-Station-Water-Energy-Calculation-and-Unit-Selection/blob/master/ImagesFolderforReadme/%E8%AE%A1%E7%AE%97%E7%BB%93%E6%9E%9C.png)
 
-7. 结论
+8. 结论
